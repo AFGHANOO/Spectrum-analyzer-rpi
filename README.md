@@ -45,11 +45,11 @@
 ### Essential
 | Item | Spec | Price |
 |------|------|-------|
-| Raspberry Pi 4 Model B | 4GB RAM recommended | ~$55–75 |
-| RTL-SDR Blog V3 | RTL2832U + R820T2, 1PPM TCXO, SMA | ~$30–35 |
-| SMA Antenna | RTL-SDR Blog dipole kit recommended | ~$15–20 |
-| MicroSD Card | 32GB+ Class 10 (Samsung/SanDisk) | ~$8–12 |
-| USB-C Power Supply | 5V / 3A (official RPi PSU) | ~$8–12 |
+| Raspberry Pi 4 Model B | 4GB RAM recommended 
+| RTL-SDR Blog V3 | RTL2832U + R820T2, 1PPM TCXO, SMA
+| SMA Antenna | RTL-SDR Blog dipole kit recommended 
+| MicroSD Card | 32GB+ Class 10 (Samsung/SanDisk) 
+| USB-C Power Supply | 5V / 3A (official RPi PSU) 
 
 ### Recommended Accessories
 | Item | Benefit |
