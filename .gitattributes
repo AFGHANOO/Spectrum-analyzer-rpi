@@ -1,3 +1,4 @@
 spectrum_analyzer.html linguist-detectable=false
+install.sh linguist-detectable=false
+start.sh linguist-detectable=false
 *.py linguist-detectable=true
-*.sh linguist-detectable=true
