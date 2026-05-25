@@ -1,0 +1,17 @@
+[Unit]
+Description=RPi4 Spectrum Analyzer - Designed By M Jafari
+After=network.target
+Wants=network.target
+
+[Service]
+Type=simple
+User=pi
+WorkingDirectory=/home/pi/spectrum_analyzer
+ExecStart=/usr/bin/python3 /home/pi/spectrum_analyzer/backend.py
+Restart=always
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
